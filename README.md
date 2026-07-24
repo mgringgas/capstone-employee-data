@@ -2,6 +2,8 @@
 
 Program CLI (Command Line Interface) berbasis Python untuk mengelola data karyawan sebuah perusahaan — mulai dari pencatatan data, pencarian, update gaji massal, hingga laporan statistik payroll. Cocok untuk latihan konsep CRUD, struktur data list of dictionaries, dan manipulasi data di Python.
 
+Project ini dibuat sebagai **Capstone Project Module 2 Python** di **Purwadhika JCBDA (Job Connector Big Data Analyst)**.
+
 ## Fitur
 
 - **Tampilkan Data Karyawan**
