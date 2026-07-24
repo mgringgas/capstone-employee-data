@@ -97,14 +97,3 @@ Karyawan yang resign akan memiliki tambahan field `alasan` yang berisi alasan re
 
 - Seluruh data akan **hilang** setiap kali program ditutup, karena data hanya disimpan di variabel Python (belum ada penyimpanan permanen ke file/database).
 - Cocok digunakan sebagai bahan belajar/latihan, bukan untuk penggunaan produksi.
-
-## Kontribusi
-
-Pull request dan saran pengembangan sangat terbuka! Beberapa ide pengembangan ke depan:
-- Menyimpan data ke file (JSON/CSV) atau database agar data tidak hilang saat program ditutup
-- Export laporan statistik ke PDF/Excel
-- Menambahkan validasi format ID/gaji yang lebih ketat
-
-## Lisensi
-
-Bebas digunakan untuk keperluan belajar dan pengembangan pribadi.
